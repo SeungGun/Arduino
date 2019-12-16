@@ -1,4 +1,4 @@
-Gachon University Robotics project <Smart Tea Machine>  
+Gachon University Robotics project <Smart Tea Machine> Using Arduino  
 ※It is not complete version.
  contents of modification
 1. Angle of servo motors

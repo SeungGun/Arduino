@@ -4,6 +4,10 @@ Gachon University Robotics project <Smart Tea Machine>
 1. Angle of servo motors
 2. components of servo motors
 3. more automatic system(control coffee pot)
+ 
+*Implement Video
+
+https://www.youtube.com/watch?v=enJET_1CpNQ
 
 We Additionally need to install <DallasTemperature.h> and <OneWire.h> and <LiquidCrystal_I2C.h> library files. 
 Go to above menu, And "Sketch" -> "Include Libraries" -> "Manage Libraries". and Search each name and download them.

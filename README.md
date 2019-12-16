@@ -9,6 +9,7 @@ Gachon University Robotics project <Smart Tea Machine> Using Arduino
 
 https://www.youtube.com/watch?v=enJET_1CpNQ
 
+<img width="200" src="https://user-images.githubusercontent.com/54919474/70915873-06200d80-205e-11ea-9c07-d9a34ebe8a5b.png"> 
 We Additionally need to install <DallasTemperature.h> and <OneWire.h> and <LiquidCrystal_I2C.h> library files. 
 Go to above menu, And "Sketch" -> "Include Libraries" -> "Manage Libraries". and Search each name and download them.
 
